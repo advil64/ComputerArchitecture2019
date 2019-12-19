@@ -1,0 +1,527 @@
+     f6 tdH,
+    154 /lib/ld-linux.so.2
+    19d SMre
+    40d libc.so.6
+    417 _IO_stdin_used
+    426 socket
+    42d fflush
+    434 strcpy
+    43b __printf_chk
+    448 exit
+    44d fopen
+    453 __isoc99_sscanf
+    463 connect
+    46b signal
+    472 puts
+    477 __stack_chk_fail
+    488 stdin
+    48e strtol
+    495 fgets
+    49b __errno_location
+    4ac read
+    4b1 __fprintf_chk
+    4bf stdout
+    4c6 __memmove_chk
+    4d4 malloc
+    4db strcasecmp
+    4e6 __ctype_b_loc
+    4f4 getenv
+    4fb stderr
+    502 alarm
+    508 gethostbyname
+    516 gethostname
+    522 close
+    528 sleep
+    52e __sprintf_chk
+    53c __libc_start_main
+    54e write
+    554 __gmon_start__
+    563 GLIBC_2.3
+    56d GLIBC_2.1
+    577 GLIBC_2.7
+    581 GLIBC_2.3.4
+    58d GLIBC_2.4
+    597 GLIBC_2.0
+    988 PTRh@
+    995 QVh{
+    cc4 She 
+    ccb sell
+    cd2 s se
+    cd9 ashe
+    ce0 lls 
+    ce7 by t
+    cee he s
+    cf5 ea s
+    cfa @ horef
+    d33 D$$1
+    e2c D$D1
+    eef D$<e3
+   130b D$PPh>
+   1351 D$XP
+   1484 \$(S
+   16b0 UWVS
+   177e ,[^_]
+   1784 UWVS
+   17fb Erro
+   1802 r: C
+   1809 lien
+   1810 t un
+   1817 able
+   181e  to 
+   1825 crea
+   182c te s
+   1831 @ ockef
+   185d Erro
+   1864 r: D
+   186b NS i
+   1872 s un
+   1879 able
+   1880  to 
+   1887 reso
+   188e lve 
+   1893 @ serv
+   189a @$er a
+   18a1 @(ddref
+   18a9 @,ss
+   1900 D$@P
+   1936 Erro
+   193d r: U
+   1944 nabl
+   194b e to
+   1952  con
+   1959 nect
+   1960  to 
+   1967 the 
+   196c @ servf
+   1974 @$er
+   19e4 Erro
+   19eb r: R
+   19f2 esul
+   19f9 t st
+   1a00 ring
+   1a07  too
+   1a0e  lar
+   1a15 ge. 
+   1a1a @ Incr
+   1a21 @$ease
+   1a28 @( SUB
+   1a2f @,MITR
+   1a36 @0_MAX
+   1a3d @4BUF
+   1ad7 <_v	
+   1b6a Erro
+   1b71 r: C
+   1b78 lien
+   1b7f t un
+   1b86 able
+   1b8d  to 
+   1b94 writ
+   1b9b e to
+   1ba0 @  the
+   1ba7 @$ ser
+   1bae @(ver
+   1c04 Erro
+   1c0b r: C
+   1c12 lien
+   1c19 t un
+   1c20 able
+   1c27  to 
+   1c2e read
+   1c35  fir
+   1c3a @ st h
+   1c41 @$eade
+   1c48 @(r fr
+   1c4f @,om s
+   1c56 @0ervef
+   1c87 D$<P
+   1cc1 RPh$
+   1d0d Erro
+   1d14 r: C
+   1d1b lien
+   1d22 t un
+   1d29 able
+   1d30  to 
+   1d37 read
+   1d3e  hea
+   1d43 @ ders
+   1d4a @$ fro
+   1d51 @(m se
+   1d58 @,rver
+   1dc4 Erro
+   1dcb r: C
+   1dd2 lien
+   1dd9 t un
+   1de0 able
+   1de7  to 
+   1dee read
+   1df5  sta
+   1dfa @ tus 
+   1e01 @$mess
+   1e08 @(age 
+   1e0f @,from
+   1e16 @0 ser
+   1e1d @4ver
+   1e45 |$$W
+   1f49 [^_]
+   1f8a t$8e
+   1f94 D$$1
+   1fd1 Erro
+   1fd8 r: C
+   1fdf lien
+   1fe6 t un
+   1fed able
+   1ff4  to 
+   1ffb crea
+   2002 te s
+   2007 F ockef
+   2035 Erro
+   203c r: D
+   2043 NS i
+   204a s un
+   2051 able
+   2058  to 
+   205f reso
+   2066 lve 
+   206b F serv
+   2072 F$er a
+   2079 F(ddref
+   2081 F,ss
+   2150  [^_
+   21e0 UWVS
+   2220 t$,U
+   2238 [^_]
+   226a %s: Error: Couldn't open %s
+   2287 Usage: %s [<input_file>]
+   22a1 That's number 2.  Keep going!
+   22bf One step closer.
+   22d0 Good work!  On to the next...
+   22ee One more!
+   22f8 Welcome to my fiendish little bomb. You have 9 phases with
+   2334 which to blow yourself up. Have a nice day!
+   2360 Phase 1 defused. How about the next one?
+   238c So you got that one.  Try this one.
+   23b0 Impressive, but how about this?
+   23d0 Good, but you're not done yet.
+   23ef %d %c %d
+   23f8 You can Russia from land here in Alaska.
+   2424 She sells seashells by the sea shore.
+   24c0 So you think you can stop the bomb with ctrl-c, do you?
+   24f8 Initialization error: Running on an illegal host [1]
+   2530 Initialization error: Running on an illegal host [2]
+   2568 ERROR: Input string is too large.
+   258c Your instructor has been notified.
+   25b0 Congratulations! You've defused the bomb!
+   25dc Your instructor has been notified and will verify your solution.
+   261d Well...
+   2625 OK. :-)
+   262d Invalid phase%s
+   263e Initialization error:
+   2658 defused
+   2660 exploded
+   2669 %d:%s:%d:%s
+   2676 BOOM!!!
+   267e The bomb has blown up.
+   2695 %d %d %d %d %d %d
+   26a7 Error: Premature EOF on stdin
+   26c5 GRADE_BOMB
+   26d0 Error: Input line too long
+   26eb ***truncated***
+   26fb ilab.cs.rutgers.edu
+   270f ilab1.cs.rutgers.edu
+   2724 ilab2.cs.rutgers.edu
+   2739 ilab3.cs.rutgers.edu
+   274e cd.cs.rutgers.edu
+   2760 cp.cs.rutgers.edu
+   2772 grep.cs.rutgers.edu
+   2786 kill.cs.rutgers.edu
+   279a less.cs.rutgers.edu
+   27ae ls.cs.rutgers.edu
+   27c0 man.cs.rutgers.edu
+   27d3 pwd.cs.rutgers.edu
+   27e6 rm.cs.rutgers.edu
+   27f8 top.cs.rutgers.edu
+   280b vi.cs.rutgers.edu
+   281d cpp.cs.rutgers.edu
+   2830 pascal.cs.rutgers.edu
+   2846 java.cs.rutgers.edu
+   285a php.cs.rutgers.edu
+   286d perl.cs.rutgers.edu
+   2881 basic.cs.rutgers.edu
+   2896 prolog.cs.rutgers.edu
+   28ac assembly.cs.rutgers.edu
+   28c4 lisp.cs.rutgers.edu
+   28d8 adapter.cs.rutgers.edu
+   28ef builder.cs.rutgers.edu
+   2906 command.cs.rutgers.edu
+   291d composite.cs.rutgers.edu
+   2936 decorator.cs.rutgers.edu
+   294f design.cs.rutgers.edu
+   2965 facade.cs.rutgers.edu
+   297b factory.cs.rutgers.edu
+   2992 flyweight.cs.rutgers.edu
+   29ab interpreter.cs.rutgers.edu
+   29c6 mediator.cs.rutgers.edu
+   29de null.cs.rutgers.edu
+   29f2 patterns.cs.rutgers.edu
+   2a0a prototype.cs.rutgers.edu
+   2a23 singleton.cs.rutgers.edu
+   2a3c specification.cs.rutgers.edu
+   2a59 state.cs.rutgers.edu
+   2a6e strategy.cs.rutgers.edu
+   2a86 template.cs.rutgers.edu
+   2a9e utility.cs.rutgers.edu
+   2ab5 visitor.cs.rutgers.edu
+   2acc airavat.cs.rutgers.edu
+   2ae3 prof2.cs.rutgers.edu
+   2af8 prof2
+   2b00 Program timed out after %d seconds
+   2b24 Error: HTTP request failed with error %d: %s
+   2b54 Error: Result string contains an illegal or unprintable character.
+   2b98 GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+   2be4 Error: Unable to connect to server %s
+   2c0c %%%02X
+   2c13 %s %d %[a-zA-z ]
+   2c25 AUTORESULT_STRING=%s
+   2c3b Fall19
+   2c42 csapp
+   2d9b ;*2$"4
+   41a0 ac1771
+   47c0 GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+   4e46 <Welcome to my fiendish little bomb. You have 9 phases with
+   4e95 -which to blow yourself up. Have a nice day!
+   4ec6 *Phase 1 defused. How about the next one?
+   4ef5 That's number 2.  Keep going!
+   4f18 One step closer.
+   4f2d %So you got that one.  Try this one.
+   4f57 Good work!  On to the next...
+   4f79 !Impressive, but how about this?
+   4f9e  Good, but you're not done yet.
+   4fc3 One more!
+   521a /usr/include/bits
+   522c /usr/lib/gcc/x86_64-linux-gnu/5/include
+   5254 /usr/include
+   5262 bomb.c
+   526c stdio2.h
+   5278 stddef.h
+   5284 types.h
+   528f stdio.h
+   529a libio.h
+   52a5 stdlib.h
+   52b1 support.h
+   52be phases.h
+   52ca <built-in>
+   5369 printf
+   5370 __off_t
+   5378 _IO_read_ptr
+   5385 _chain
+   538c size_t
+   5393 _shortbuf
+   539d _IO_buf_base
+   53aa long long unsigned int
+   53c1 read_line
+   53cb long long int
+   53d9 phase_defused
+   53e7 _fileno
+   53ef _IO_read_end
+   53fc _flags
+   5403 _IO_buf_end
+   540f _cur_column
+   541b __quad_t
+   5424 __printf_chk
+   5431 GNU C11 5.4.0 20160609 -m32 -mtune=generic -march=i686 -ggdb -O1 -fstack-protector-strong
+   548b _old_offset
+   5497 infile
+   549e initialize_bomb
+   54ae _IO_marker
+   54b9 stdin
+   54bf _IO_write_ptr
+   54cd _sbuf
+   54d3 short unsigned int
+   54e6 _IO_save_base
+   54f4 _lock
+   54fa _flags2
+   5502 _mode
+   5508 __builtin_puts
+   5517 stdout
+   551e sizetype
+   5527 _IO_write_end
+   5535 _IO_lock_t
+   5540 _IO_FILE
+   5549 fopen
+   554f _pos
+   5554 _markers
+   555d unsigned char
+   556b short int
+   5575 _vtable_offset
+   5584 exit
+   5589 bomb.c
+   5590 input
+   5596 _next
+   559c __off64_t
+   55a6 _IO_read_base
+   55b4 _IO_save_end
+   55c1 __fmt
+   55c7 __pad1
+   55ce __pad2
+   55d5 __pad3
+   55dc __pad4
+   55e3 __pad5
+   55ea _unused2
+   55f3 argv
+   55f8 phase_1
+   5600 phase_2
+   5608 phase_3
+   5610 phase_4
+   5618 phase_5
+   5620 phase_6
+   5628 phase_7
+   5630 phase_8
+   5638 phase_9
+   5640 _IO_backup_base
+   5650 /home/santosh/bomblab-fall2019/bomblab/src
+   567b argc
+   5680 main
+   5685 _IO_write_base
+   62d5 crtstuff.c
+   62e0 __JCR_LIST__
+   62ed deregister_tm_clones
+   6302 __do_global_dtors_aux
+   6318 completed.7209
+   6327 __do_global_dtors_aux_fini_array_entry
+   634e frame_dummy
+   635a __frame_dummy_init_array_entry
+   6379 bomb.c
+   6380 phases.c
+   6389 array.3330
+   6394 support.c
+   639e sig_handler
+   63aa driverlib.c
+   63b6 rio_readlineb
+   63c4 __FRAME_END__
+   63d2 __JCR_END__
+   63de __init_array_end
+   63ef _DYNAMIC
+   63f8 __init_array_start
+   640b __GNU_EH_FRAME_HDR
+   641e _GLOBAL_OFFSET_TABLE_
+   6434 __libc_csu_fini
+   6444 skip
+   6449 phase_defused
+   645b read@@GLIBC_2.0
+   646b _ITM_deregisterTMCloneTable
+   6487 __x86.get_pc_thunk.bx
+   649d fflush@@GLIBC_2.0
+   64b3 stderr@@GLIBC_2.0
+   64c5 fgets@@GLIBC_2.0
+   64d6 _edata
+   64dd signal@@GLIBC_2.0
+   64ef sleep@@GLIBC_2.0
+   6510 alarm@@GLIBC_2.0
+   6521 __stack_chk_fail@@GLIBC_2.4
+   653d num_input_strings
+   654f phase_5
+   6557 initialize_bomb_solve
+   656d phase_7
+   6575 blank_line
+   6580 phase_9
+   6588 submitr
+   6590 phase_3
+   6598 phase_1
+   65a0 invalid_phase
+   65ae init_driver
+   65ba strcpy@@GLIBC_2.0
+   65cc node3
+   65d2 explode_bomb
+   65df gethostname@@GLIBC_2.0
+   65f6 node1
+   65fc getenv@@GLIBC_2.0
+   660e malloc@@GLIBC_2.0
+   6620 __data_start
+   662d puts@@GLIBC_2.0
+   663d node5
+   6643 __memmove_chk@@GLIBC_2.3.4
+   665e __gmon_start__
+   666d exit@@GLIBC_2.0
+   667d __dso_handle
+   668a _IO_stdin_used
+   669d host_table
+   66ab fun5
+   66b0 __libc_start_main@@GLIBC_2.0
+   66cd write@@GLIBC_2.0
+   66de string_length
+   66ec strcasecmp@@GLIBC_2.0
+   6702 __libc_csu_init
+   6712 stdin@@GLIBC_2.0
+   6723 __isoc99_sscanf@@GLIBC_2.7
+   6742 fopen@@GLIBC_2.1
+   6757 __errno_location@@GLIBC_2.0
+   6773 _fp_hw
+   677a infile
+   6781 sigalrm_handler
+   6791 init_timeout
+   679e stdout@@GLIBC_2.0
+   67b0 __bss_start
+   67bc userid
+   67c3 main
+   67c8 __printf_chk@@GLIBC_2.3.4
+   67ee read_line
+   67fc strings_not_equal
+   680e phase_4
+   6816 phase_8
+   681e phase_6
+   6826 scratch
+   682e _Jv_RegisterClasses
+   6842 driver_post
+   684e send_msg
+   6857 phase_2
+   685f bomb_id
+   6867 socket@@GLIBC_2.0
+   6879 __TMC_END__
+   6885 __fprintf_chk@@GLIBC_2.3.4
+   68a0 _ITM_registerTMCloneTable
+   68ba node2
+   68c0 node4
+   68c6 gethostbyname@@GLIBC_2.0
+   68df strtol@@GLIBC_2.0
+   68f1 node6
+   68f7 connect@@GLIBC_2.0
+   690a close@@GLIBC_2.0
+   691b read_six_numbers
+   6930 initialize_bomb
+   6940 fun8
+   6945 __ctype_b_loc@@GLIBC_2.3
+   695e __sprintf_chk@@GLIBC_2.3.4
+   697a .symtab
+   6982 .strtab
+   698a .shstrtab
+   6994 .interp
+   699c .note.ABI-tag
+   69aa .note.gnu.build-id
+   69bd .gnu.hash
+   69c7 .dynsym
+   69cf .dynstr
+   69d7 .gnu.version
+   69e4 .gnu.version_r
+   69f3 .rel.dyn
+   69fc .rel.plt
+   6a05 .init
+   6a0b .plt.got
+   6a14 .text
+   6a1a .fini
+   6a20 .rodata
+   6a28 .eh_frame_hdr
+   6a36 .eh_frame
+   6a40 .init_array
+   6a4c .fini_array
+   6a58 .jcr
+   6a5d .dynamic
+   6a66 .got.plt
+   6a6f .data
+   6a75 .bss
+   6a7a .comment
+   6a83 .debug_aranges
+   6a92 .debug_info
+   6a9e .debug_abbrev
+   6aac .debug_line
+   6ab8 .debug_str
+   6ac3 .debug_loc

@@ -1,0 +1,105 @@
+Dump of assembler code for function fun8:
+=> 0x08049071 <+0>:	push   %esi
+   0x08049072 <+1>:	push   %ebx
+   0x08049073 <+2>:	sub    $0x4,%esp
+   0x08049076 <+5>:	mov    0x10(%esp),%edx
+   0x0804907a <+9>:	mov    0x14(%esp),%esi
+   0x0804907e <+13>:	mov    0x18(%esp),%ecx
+   0x08049082 <+17>:	mov    %ecx,%eax
+   0x08049084 <+19>:	sub    %esi,%eax
+   0x08049086 <+21>:	mov    %eax,%ebx
+   0x08049088 <+23>:	shr    $0x1f,%ebx
+   0x0804908b <+26>:	add    %ebx,%eax
+   0x0804908d <+28>:	sar    %eax
+   0x0804908f <+30>:	lea    (%eax,%esi,1),%ebx
+   0x08049092 <+33>:	cmp    %edx,%ebx
+   0x08049094 <+35>:	jle    0x80490ab <fun8+58>
+   0x08049096 <+37>:	sub    $0x4,%esp
+   0x08049099 <+40>:	lea    -0x1(%ebx),%eax
+   0x0804909c <+43>:	push   %eax
+   0x0804909d <+44>:	push   %esi
+   0x0804909e <+45>:	push   %edx
+   0x0804909f <+46>:	call   0x8049071 <fun8>
+   0x080490a4 <+51>:	add    $0x10,%esp
+   0x080490a7 <+54>:	add    %ebx,%eax
+   0x080490a9 <+56>:	jmp    0x80490c4 <fun8+83>
+   0x080490ab <+58>:	mov    %ebx,%eax
+   0x080490ad <+60>:	cmp    %edx,%ebx
+   0x080490af <+62>:	jge    0x80490c4 <fun8+83>
+   0x080490b1 <+64>:	sub    $0x4,%esp
+   0x080490b4 <+67>:	push   %ecx
+   0x080490b5 <+68>:	lea    0x1(%ebx),%eax
+   0x080490b8 <+71>:	push   %eax
+   0x080490b9 <+72>:	push   %edx
+   0x080490ba <+73>:	call   0x8049071 <fun8>
+   0x080490bf <+78>:	add    $0x10,%esp
+   0x080490c2 <+81>:	add    %ebx,%eax
+   0x080490c4 <+83>:	add    $0x4,%esp
+   0x080490c7 <+86>:	pop    %ebx
+   0x080490c8 <+87>:	pop    %esi
+   0x080490c9 <+88>:	ret    
+End of assembler dump.
+Breakpoint 1 at 0x80494e6
+Breakpoint 2 at 0x804913f
+No frame selected.
+Starting program: /ilab/users/ac1771/Desktop/compArch/pa3/bomb81/bomb solutions.txt
+
+Breakpoint 2, 0x0804913f in phase_9 ()
+Dump of assembler code for function phase_9:
+=> 0x0804913f <+0>:	push   %ebx
+   0x08049140 <+1>:	sub    $0x14,%esp
+   0x08049143 <+4>:	mov    0x1c(%esp),%ebx
+   0x08049147 <+8>:	push   %ebx
+   0x08049148 <+9>:	call   0x8049200 <string_length>
+   0x0804914d <+14>:	add    $0x10,%esp
+   0x08049150 <+17>:	cmp    $0x6,%eax
+   0x08049153 <+20>:	je     0x804915a <phase_9+27>
+   0x08049155 <+22>:	call   0x80494e6 <explode_bomb>
+   0x0804915a <+27>:	mov    %ebx,%eax
+   0x0804915c <+29>:	add    $0x6,%ebx
+   0x0804915f <+32>:	mov    $0x0,%ecx
+   0x08049164 <+37>:	movzbl (%eax),%edx
+   0x08049167 <+40>:	and    $0xf,%edx
+   0x0804916a <+43>:	add    0x804a480(,%edx,4),%ecx
+   0x08049171 <+50>:	add    $0x1,%eax
+   0x08049174 <+53>:	cmp    %ebx,%eax
+   0x08049176 <+55>:	jne    0x8049164 <phase_9+37>
+   0x08049178 <+57>:	cmp    $0x26,%ecx
+   0x0804917b <+60>:	je     0x8049182 <phase_9+67>
+   0x0804917d <+62>:	call   0x80494e6 <explode_bomb>
+   0x08049182 <+67>:	add    $0x8,%esp
+   0x08049185 <+70>:	pop    %ebx
+   0x08049186 <+71>:	ret    
+End of assembler dump.
+Dump of assembler code for function phase_9:
+=> 0x0804913f <+0>:	push   %ebx
+   0x08049140 <+1>:	sub    $0x14,%esp
+   0x08049143 <+4>:	mov    0x1c(%esp),%ebx
+   0x08049147 <+8>:	push   %ebx
+   0x08049148 <+9>:	call   0x8049200 <string_length>
+   0x0804914d <+14>:	add    $0x10,%esp
+   0x08049150 <+17>:	cmp    $0x6,%eax
+   0x08049153 <+20>:	je     0x804915a <phase_9+27>
+   0x08049155 <+22>:	call   0x80494e6 <explode_bomb>
+   0x0804915a <+27>:	mov    %ebx,%eax
+   0x0804915c <+29>:	add    $0x6,%ebx
+   0x0804915f <+32>:	mov    $0x0,%ecx
+   0x08049164 <+37>:	movzbl (%eax),%edx
+   0x08049167 <+40>:	and    $0xf,%edx
+   0x0804916a <+43>:	add    0x804a480(,%edx,4),%ecx
+   0x08049171 <+50>:	add    $0x1,%eax
+   0x08049174 <+53>:	cmp    %ebx,%eax
+   0x08049176 <+55>:	jne    0x8049164 <phase_9+37>
+   0x08049178 <+57>:	cmp    $0x26,%ecx
+   0x0804917b <+60>:	je     0x8049182 <phase_9+67>
+   0x0804917d <+62>:	call   0x80494e6 <explode_bomb>
+   0x08049182 <+67>:	add    $0x8,%esp
+   0x08049185 <+70>:	pop    %ebx
+   0x08049186 <+71>:	ret    
+End of assembler dump.
+0x08049140 in phase_9 ()
+A debugging session is active.
+
+	Inferior 1 [process 13160] will be killed.
+
+Quit anyway? (y or n) 
